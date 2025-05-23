@@ -1,0 +1,5 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+Each line has several words and characters.
+This is useful for testing file operations in Java.
+Let's count characters, words, and lines!
